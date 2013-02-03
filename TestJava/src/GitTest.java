@@ -1,7 +1,7 @@
 
 public class GitTest {
 	  public static void main(String[] args) {
-		  	for(int i = 0 ; i <22 ; i++){
+		  	for(int i = 0 ; i <29 ; i++){
 		  		System.out.println("Git is cool: " + i);	
 		  	}
 		    
